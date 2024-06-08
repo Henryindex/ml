@@ -1,0 +1,4 @@
+0 paper
+1 scissor
+2 stone
+3 bg
